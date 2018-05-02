@@ -102,7 +102,7 @@ export default {
 }
 .personalImgBg {
   width: 40%;
-  height: 60%;
+  height: 62%;
   background: #92b4f8;
   border-radius: 90px;
   display: flex;
